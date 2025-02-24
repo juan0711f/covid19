@@ -1,0 +1,1324 @@
+{
+  "Guinea": [
+    {
+      "date": "2015-01-02",
+      "confirmed": 2435,
+      "deaths": 1463,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-05",
+      "confirmed": 2465,
+      "deaths": 1488,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-06",
+      "confirmed": 2471,
+      "deaths": 1499,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-07",
+      "confirmed": 2471,
+      "deaths": 1499,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-08",
+      "confirmed": 2477,
+      "deaths": 1504,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-09",
+      "confirmed": 2493,
+      "deaths": 1515,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-12",
+      "confirmed": 2508,
+      "deaths": 1523,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-13",
+      "confirmed": 2508,
+      "deaths": 1523,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-14",
+      "confirmed": 2514,
+      "deaths": 1530,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-15",
+      "confirmed": 2522,
+      "deaths": 1537,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-16",
+      "confirmed": 2525,
+      "deaths": 1541,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-19",
+      "confirmed": 2539,
+      "deaths": 1556,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-20",
+      "confirmed": 2539,
+      "deaths": 1557,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-21",
+      "confirmed": 2539,
+      "deaths": 1557,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-22",
+      "confirmed": 2542,
+      "deaths": 1560,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-23",
+      "confirmed": 2545,
+      "deaths": 1561,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-26",
+      "confirmed": 2559,
+      "deaths": 1574,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-27",
+      "confirmed": 2569,
+      "deaths": 1578,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-28",
+      "confirmed": 2569,
+      "deaths": 1578,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-29",
+      "confirmed": 2571,
+      "deaths": 1579,
+      "recovered": 0
+    },
+    {
+      "date": "2015-01-30",
+      "confirmed": 2575,
+      "deaths": 1581,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-02",
+      "confirmed": 2593,
+      "deaths": 1595,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-03",
+      "confirmed": 2608,
+      "deaths": 1597,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-04",
+      "confirmed": 2608,
+      "deaths": 1597,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-05",
+      "confirmed": 2621,
+      "deaths": 1600,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-06",
+      "confirmed": 2628,
+      "deaths": 1608,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-10",
+      "confirmed": 2674,
+      "deaths": 1643,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-11",
+      "confirmed": 2674,
+      "deaths": 1643,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-12",
+      "confirmed": 2685,
+      "deaths": 1651,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-13",
+      "confirmed": 2693,
+      "deaths": 1659,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-16",
+      "confirmed": 2720,
+      "deaths": 1678,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-17",
+      "confirmed": 2727,
+      "deaths": 1683,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-18",
+      "confirmed": 2727,
+      "deaths": 1683,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-19",
+      "confirmed": 2732,
+      "deaths": 1686,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-20",
+      "confirmed": 2734,
+      "deaths": 1688,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-23",
+      "confirmed": 2758,
+      "deaths": 1699,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-25",
+      "confirmed": 2762,
+      "deaths": 1704,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-26",
+      "confirmed": 2781,
+      "deaths": 1714,
+      "recovered": 0
+    },
+    {
+      "date": "2015-02-27",
+      "confirmed": 2790,
+      "deaths": 1721,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-02",
+      "confirmed": 2808,
+      "deaths": 1735,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-04",
+      "confirmed": 2808,
+      "deaths": 1735,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-05",
+      "confirmed": 2833,
+      "deaths": 1749,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-06",
+      "confirmed": 2840,
+      "deaths": 1755,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-10",
+      "confirmed": 2871,
+      "deaths": 1778,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-11",
+      "confirmed": 2871,
+      "deaths": 1778,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-12",
+      "confirmed": 2901,
+      "deaths": 1792,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-13",
+      "confirmed": 2911,
+      "deaths": 1797,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-16",
+      "confirmed": 2957,
+      "deaths": 1821,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-17",
+      "confirmed": 2966,
+      "deaths": 1829,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-18",
+      "confirmed": 2966,
+      "deaths": 1829,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-20",
+      "confirmed": 2988,
+      "deaths": 1846,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-23",
+      "confirmed": 3007,
+      "deaths": 1863,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-24",
+      "confirmed": 3011,
+      "deaths": 1865,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-25",
+      "confirmed": 3011,
+      "deaths": 1865,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-26",
+      "confirmed": 3032,
+      "deaths": 1875,
+      "recovered": 0
+    },
+    {
+      "date": "2015-03-27",
+      "confirmed": 3042,
+      "deaths": 1878,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-07",
+      "confirmed": 3089,
+      "deaths": 1919,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-09",
+      "confirmed": 3093,
+      "deaths": 1921,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-13",
+      "confirmed": 3112,
+      "deaths": 1928,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-14",
+      "confirmed": 3117,
+      "deaths": 1932,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-15",
+      "confirmed": 3117,
+      "deaths": 1932,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-16",
+      "confirmed": 3124,
+      "deaths": 1934,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-17",
+      "confirmed": 3126,
+      "deaths": 1937,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-20",
+      "confirmed": 3133,
+      "deaths": 1942,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-21",
+      "confirmed": 3136,
+      "deaths": 1943,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-22",
+      "confirmed": 3136,
+      "deaths": 1943,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-23",
+      "confirmed": 3144,
+      "deaths": 1947,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-24",
+      "confirmed": 3145,
+      "deaths": 1950,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-27",
+      "confirmed": 3154,
+      "deaths": 1959,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-28",
+      "confirmed": 3158,
+      "deaths": 1962,
+      "recovered": 0
+    },
+    {
+      "date": "2015-04-30",
+      "confirmed": 3159,
+      "deaths": 1966,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-01",
+      "confirmed": 3161,
+      "deaths": 1968,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-04",
+      "confirmed": 3163,
+      "deaths": 1970,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-05",
+      "confirmed": 3167,
+      "deaths": 1971,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-06",
+      "confirmed": 3167,
+      "deaths": 1971,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-07",
+      "confirmed": 3170,
+      "deaths": 1972,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-08",
+      "confirmed": 3170,
+      "deaths": 1972,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-11",
+      "confirmed": 3173,
+      "deaths": 1976,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-12",
+      "confirmed": 3174,
+      "deaths": 1977,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-13",
+      "confirmed": 3173,
+      "deaths": 1976,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-14",
+      "confirmed": 3187,
+      "deaths": 1980,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-15",
+      "confirmed": 3189,
+      "deaths": 1982,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-18",
+      "confirmed": 3195,
+      "deaths": 1986,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-19",
+      "confirmed": 3201,
+      "deaths": 1988,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-20",
+      "confirmed": 3201,
+      "deaths": 1988,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-21",
+      "confirmed": 3204,
+      "deaths": 1990,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-22",
+      "confirmed": 3205,
+      "deaths": 1993,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-25",
+      "confirmed": 3208,
+      "deaths": 1999,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-26",
+      "confirmed": 3210,
+      "deaths": 2001,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-27",
+      "confirmed": 3210,
+      "deaths": 2001,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-28",
+      "confirmed": 3214,
+      "deaths": 2004,
+      "recovered": 0
+    },
+    {
+      "date": "2015-05-29",
+      "confirmed": 3216,
+      "deaths": 2006,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-01",
+      "confirmed": 3220,
+      "deaths": 2009,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-02",
+      "confirmed": 3223,
+      "deaths": 2010,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-03",
+      "confirmed": 3223,
+      "deaths": 2010,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-04",
+      "confirmed": 3227,
+      "deaths": 2012,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-05",
+      "confirmed": 3228,
+      "deaths": 2012,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-08",
+      "confirmed": 3237,
+      "deaths": 2016,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-09",
+      "confirmed": 3239,
+      "deaths": 2018,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-10",
+      "confirmed": 3239,
+      "deaths": 2018,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-11",
+      "confirmed": 3243,
+      "deaths": 2021,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-12",
+      "confirmed": 3243,
+      "deaths": 2021,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-15",
+      "confirmed": 3249,
+      "deaths": 2024,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-16",
+      "confirmed": 3249,
+      "deaths": 2025,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-17",
+      "confirmed": 3245,
+      "deaths": 2025,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-18",
+      "confirmed": 3246,
+      "deaths": 2026,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-19",
+      "confirmed": 3247,
+      "deaths": 2027,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-22",
+      "confirmed": 3254,
+      "deaths": 2028,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-23",
+      "confirmed": 3257,
+      "deaths": 2030,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-24",
+      "confirmed": 3257,
+      "deaths": 2030,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-25",
+      "confirmed": 3264,
+      "deaths": 2037,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-26",
+      "confirmed": 3266,
+      "deaths": 2037,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-29",
+      "confirmed": 3268,
+      "deaths": 2039,
+      "recovered": 0
+    },
+    {
+      "date": "2015-06-30",
+      "confirmed": 3269,
+      "deaths": 2039,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-01",
+      "confirmed": 3269,
+      "deaths": 2039,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-02",
+      "confirmed": 3277,
+      "deaths": 2040,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-03",
+      "confirmed": 3279,
+      "deaths": 2042,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-06",
+      "confirmed": 3287,
+      "deaths": 2048,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-07",
+      "confirmed": 3287,
+      "deaths": 2049,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-08",
+      "confirmed": 3287,
+      "deaths": 2049,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-09",
+      "confirmed": 3290,
+      "deaths": 2055,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-10",
+      "confirmed": 3293,
+      "deaths": 2055,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-13",
+      "confirmed": 3299,
+      "deaths": 2056,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-14",
+      "confirmed": 3300,
+      "deaths": 2056,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-15",
+      "confirmed": 3300,
+      "deaths": 2056,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-16",
+      "confirmed": 3304,
+      "deaths": 2056,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-17",
+      "confirmed": 3310,
+      "deaths": 2059,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-20",
+      "confirmed": 3322,
+      "deaths": 2061,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-21",
+      "confirmed": 3322,
+      "deaths": 2062,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-22",
+      "confirmed": 3322,
+      "deaths": 2062,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-23",
+      "confirmed": 3325,
+      "deaths": 2066,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-24",
+      "confirmed": 3325,
+      "deaths": 2066,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-27",
+      "confirmed": 3325,
+      "deaths": 2068,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-28",
+      "confirmed": 3326,
+      "deaths": 2069,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-29",
+      "confirmed": 3326,
+      "deaths": 2069,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-30",
+      "confirmed": 3326,
+      "deaths": 2069,
+      "recovered": 0
+    },
+    {
+      "date": "2015-07-31",
+      "confirmed": 3326,
+      "deaths": 2069,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-03",
+      "confirmed": 3327,
+      "deaths": 2070,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-04",
+      "confirmed": 3327,
+      "deaths": 2070,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-05",
+      "confirmed": 3327,
+      "deaths": 2070,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-06",
+      "confirmed": 3329,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-07",
+      "confirmed": 3329,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-10",
+      "confirmed": 3329,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-11",
+      "confirmed": 3329,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-12",
+      "confirmed": 3329,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-13",
+      "confirmed": 3330,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-14",
+      "confirmed": 3330,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-17",
+      "confirmed": 3332,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-18",
+      "confirmed": 3332,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-19",
+      "confirmed": 3332,
+      "deaths": 2072,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-20",
+      "confirmed": 3334,
+      "deaths": 2074,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-21",
+      "confirmed": 3334,
+      "deaths": 2074,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-24",
+      "confirmed": 3334,
+      "deaths": 2075,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-25",
+      "confirmed": 3335,
+      "deaths": 2075,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-26",
+      "confirmed": 3335,
+      "deaths": 2075,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-27",
+      "confirmed": 3336,
+      "deaths": 2076,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-28",
+      "confirmed": 3336,
+      "deaths": 2076,
+      "recovered": 0
+    },
+    {
+      "date": "2015-08-31",
+      "confirmed": 3337,
+      "deaths": 2076,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-01",
+      "confirmed": 3337,
+      "deaths": 2077,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-02",
+      "confirmed": 3337,
+      "deaths": 2077,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-03",
+      "confirmed": 3338,
+      "deaths": 2077,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-04",
+      "confirmed": 3338,
+      "deaths": 2077,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-07",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-08",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-09",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-10",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-11",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-14",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-15",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-16",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-17",
+      "confirmed": 3338,
+      "deaths": 2078,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-18",
+      "confirmed": 3339,
+      "deaths": 2079,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-21",
+      "confirmed": 3340,
+      "deaths": 2079,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-22",
+      "confirmed": 3340,
+      "deaths": 2079,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-23",
+      "confirmed": 3340,
+      "deaths": 2079,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-24",
+      "confirmed": 3340,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-25",
+      "confirmed": 3340,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-28",
+      "confirmed": 3342,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-29",
+      "confirmed": 3344,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-09-30",
+      "confirmed": 3344,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-01",
+      "confirmed": 3344,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-02",
+      "confirmed": 3344,
+      "deaths": 2080,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-05",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-06",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-07",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-08",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-09",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-13",
+      "confirmed": 3344,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-15",
+      "confirmed": 3345,
+      "deaths": 2081,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-16",
+      "confirmed": 3346,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-20",
+      "confirmed": 3347,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-22",
+      "confirmed": 3347,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-23",
+      "confirmed": 3347,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-26",
+      "confirmed": 3350,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-27",
+      "confirmed": 3350,
+      "deaths": 2082,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-29",
+      "confirmed": 3350,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-10-30",
+      "confirmed": 3350,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-03",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-05",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-06",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-10",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-11",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-12",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-16",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-17",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-20",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-24",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-11-26",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-01",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-02",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-03",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-09",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-10",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-11",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-15",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-16",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-17",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-22",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-23",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    },
+    {
+      "date": "2015-12-29",
+      "confirmed": 3351,
+      "deaths": 2083,
+      "recovered": 0
+    }
+  ]
+}
